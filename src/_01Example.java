@@ -7,6 +7,7 @@
  * 5 = Friday
  * 6 = Saturday
  * 7 = Sunday
+ * @author Udayan Khattry
  */
 
 public class _01Example {
