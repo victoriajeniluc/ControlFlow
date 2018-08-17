@@ -38,3 +38,34 @@ public class _03Example {
         }
     }
 }
+
+
+// THIS IS AN EXAMPLE OF FALL THROUGH!!! ** REFER TO THE JAVA QUESTIONS FOR THE IMPORTANCE!
+// public class _03Example {
+    // public static void main(String[] args) {
+        // String colorCode = "g";
+
+        // switch(colorCode) {
+            // default:
+                // System.out.println("Not a valid color");
+                // break;
+            //case "R":
+            //case "r":
+               // System.out.println("Traffic color is RED");
+                // break;
+            //case "R":
+            //case "r":
+               // System.out.println("Traffic color is RED");
+                // break;
+            //case "O":
+            //case "o":
+               // System.out.println(" Traffic color is ORANGE");
+                // break;
+            // case "G":
+            // case "g":
+              //  System.out.println("Traffic color is GREEN");
+                // break;
+
+  //        }
+ //   }
+// }
