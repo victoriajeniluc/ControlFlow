@@ -37,7 +37,7 @@ public class WhileLoop {
 
         // since the boolean expression consists of two operators... you would solve it based on the order of procedence...
         // group them: while((counter++) < 100)
-        // it will use 1 first since the it is a post incrementor.. evaluate if 1 is less than 100.. if true then keep running the loop until it reaches 100. 
+        // it will use 1 first since the it is a post incrementor.. evaluate if 1 is less than 100.. if true then keep running the loop until it reaches 100.
         while(counter++ < 100) {
             System.out.println("hello");
         }
