@@ -1,3 +1,7 @@
+/**
+ * Create an example for a do-while loop
+ * @author Udayan Khattry
+ */
 public class DoWhileLoop {
     public static void main(String[] args) {
         int ctr = 0;

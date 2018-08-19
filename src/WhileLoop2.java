@@ -1,3 +1,8 @@
+/**
+ * Create an example for while loop
+ * @author Udayan Khattry
+ */
+
 public class WhileLoop2 {
     public static void main(String[] args) {
         boolean flag = false;
